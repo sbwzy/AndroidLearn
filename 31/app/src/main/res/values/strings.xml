@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">3.1</string>
+    <string name="hello_i_am_a_button">Hello, I am a Button</string>
+    <string name="hello_i_am_a_textview">Hello, I am a TextView</string>
+    <string name="todo">TODO</string>
+    <string name="textview">Hello World!</string>
+</resources>
