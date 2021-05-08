@@ -1,10 +1,8 @@
-package com.example.helloearth;
+package com.example.showwords;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.graphics.Color;
 import android.os.Bundle;
-import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
